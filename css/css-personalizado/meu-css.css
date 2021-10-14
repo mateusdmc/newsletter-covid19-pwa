@@ -1,0 +1,48 @@
+
+.texto-responsivo{
+    font-size: clamp(0.4em, 0.5em + 1.3vw, 1.8em);
+}
+
+.texto-responsivo-quadro{
+    font-size: clamp(0.3em, 0.20em + 1.3vw, 1em);
+}
+
+.bg-azul{
+    background-color: #094eb3;
+}
+
+.bg-lilas{
+    background-color: #a615bb;
+}
+
+.bg-verde{
+    background-color: #26b21f;
+}
+
+.bg-amarelo{
+    background-color: #edad02;
+}
+
+.bg-vermelho{
+    background-color: #f30909;
+}
+
+.bg-rosa{
+    background-color: #ff7777;
+}
+
+.bg-preto{
+    background-color: #000000;
+}
+
+.bg-roxo{
+    background-color: #725af8;
+}
+
+.bg-laranja{
+    background-color: #ed5a02;
+}
+
+.bg-cinza{
+    background-color: #e3e3e3;
+}

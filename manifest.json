@@ -1,0 +1,35 @@
+{
+    "short_name": "Boletim",
+    "name": "Boletim COVID-19",
+    "description": "Boletim informativo de covid-19",
+    "icons": [
+      {
+        "src": "img/icone-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "img/icone-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": ".",
+    "background_color": "#094eb3",
+    "display": "fullscreen",
+    "orientation": "portrait-primary",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "shortcuts": [
+      {
+        "name": "Boletim COVID-19",
+        "short_name": "Boletim",
+        "description": "Boletim informativo de covid-19",
+        "url": "?source=pwa",
+        "icons": [{ "src": "img/icone-192.png", "sizes": "192x192" }]
+      }
+    ]
+    
+  }

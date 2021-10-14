@@ -1,0 +1,6 @@
+{
+    "root": ".",
+    "routs": {
+        "*.html": "index.html"
+    }
+}
